@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTM Generator Pro — Digital Student Card Generator</title>
+    <meta name="description" content="Generate professional digital student ID cards (KTM) instantly. Manual input or automatic data from database.">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tom-select@2.2.2/dist/css/tom-select.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/tom-select@2.2.2/dist/js/tom-select.complete.min.js"></script>
+
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --primary-deeper: #3730a3;
+            --accent: #f59e0b;
+            --accent-glow: rgba(245, 158, 11, 0.3);
+            --bg-dark: #0f0f23;
+            --bg-sidebar: #131328;
+            --bg-card: rgba(255, 255, 255, 0.04);
+            --border: rgba(255, 255, 255, 0.08);
+            --text-white: #f1f5f9;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --danger: #ef4444;
+            --glass: rgba(255, 255, 255, 0.05);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+        
+        body {
+            background: var(--bg-dark);
+            color: var(--text-white);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* ===== LAYOUT ===== */
+        .app {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* ===== SIDEBAR ===== */
+        .sidebar {
+            width: 440px;
+            min-width: 440px;
+            background: var(--bg-sidebar);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .sidebar::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 200px;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(245, 158, 11, 0.08));
+            pointer-events: none;
+        }
+
+        .sidebar-inner {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* ===== BRAND ===== */
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .brand-icon {
+            width: 52px; height: 52px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            border-radius: 14px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 26px;
+            box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
+        }
+
+        .brand h1 { font-size: 1.2rem; font-weight: 800; letter-spacing: -0.5px; }
+        .brand span { font-size: 0.75rem; color: var(--text-muted); font-weight: 500; }
+
+        /* ===== MODE SWITCHER ===== */
+        .mode-switcher {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 6px;
+            display: flex;
+            gap: 4px;
+        }
+
+        .mode-btn {
+            flex: 1;
+            padding: 12px 16px;
+            border: none;
+            border-radius: 10px;
+            background: transparent;
+            color: var(--text-muted);
+            font-weight: 600;
+            font-size: 0.85rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .mode-btn i { font-size: 1.15rem; }
+
+        .mode-btn.active {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            box-shadow: 0 4px 16px rgba(99, 102, 241, 0.35);
+        }
+
+        .mode-btn:not(.active):hover {
+            background: rgba(255, 255, 255, 0.06);
+            color: var(--text-white);
+        }
+
+        /* Pulse dot for active mode */
+        .mode-btn.active::after {
+            content: '';
+            width: 6px; height: 6px;
+            background: var(--accent);
+            border-radius: 50%;
+            position: absolute;
+            top: 8px; right: 8px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.5); }
+        }
+
+        /* ===== FORM ELEMENTS ===== */
+        .form-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 1.25rem;
+        }
+
+        .form-section-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .form-section-title i { color: var(--primary); font-size: 1rem; }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-bottom: 0.85rem;
+        }
+
+        .form-group:last-child { margin-bottom: 0; }
+
+        .form-group label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text-muted);
+        }
+
+        .form-row {
+            display: flex;
+            gap: 12px;
+        }
+
+        .form-row .form-group { flex: 1; }
+
+        input[type="text"],
+        input[type="number"],
+        select {
+            padding: 11px 14px;
+            background: rgba(255, 255, 255, 0.06);
+            border: 1.5px solid var(--border);
+            border-radius: 10px;
+            color: var(--text-white);
+            font-size: 0.9rem;
+            font-weight: 500;
+            width: 100%;
+            transition: all 0.2s;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+            background: rgba(99, 102, 241, 0.06);
+        }
+
+        input::placeholder { color: rgba(148, 163, 184, 0.5); }
+        input[readonly] { opacity: 0.6; cursor: not-allowed; }
+
+        /* ===== TOM SELECT OVERRIDES ===== */
+        .ts-wrapper { width: 100% !important; }
+        .ts-control {
+            background: rgba(255, 255, 255, 0.06) !important;
+            border: 1.5px solid var(--border) !important;
+            border-radius: 10px !important;
+            padding: 11px 14px !important;
+            color: var(--text-white) !important;
+            font-size: 0.9rem;
+            min-height: 44px !important;
+        }
+        .ts-control input { color: var(--text-white) !important; }
+        .ts-control input::placeholder { color: rgba(148, 163, 184, 0.5) !important; }
+        .ts-control.focus {
+            border-color: var(--primary) !important;
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15) !important;
+        }
+        .ts-dropdown {
+            background: #1e1e3a !important;
+            border: 1px solid var(--border) !important;
+            border-radius: 10px !important;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5) !important;
+            z-index: 9999;
+        }
+        .ts-dropdown .option {
+            color: var(--text-white) !important;
+            padding: 10px 14px !important;
+        }
+        .ts-dropdown .option:hover,
+        .ts-dropdown .active { background: rgba(99, 102, 241, 0.2) !important; }
+        .ts-dropdown .option.active { background: var(--primary) !important; }
+
+        /* ===== PHOTO SECTION ===== */
+        .photo-switcher {
+            display: flex;
+            background: rgba(0,0,0,0.2);
+            padding: 3px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .switch-btn {
+            flex: 1;
+            text-align: center;
+            padding: 8px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            transition: all 0.25s;
+            border: none;
+            background: transparent;
+        }
+
+        .switch-btn.active {
+            background: var(--primary);
+            color: white;
+            box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+        }
+
+        .file-upload-box {
+            border: 2px dashed rgba(99, 102, 241, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.3s;
+        }
+        .file-upload-box:hover {
+            border-color: var(--primary);
+            background: rgba(99, 102, 241, 0.05);
+        }
+        .file-upload-box .upload-icon {
+            font-size: 2rem;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+        }
+        .file-upload-box p { font-size: 0.8rem; color: var(--text-muted); }
+        .file-preview {
+            width: 100%;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 8px;
+            display: none;
+            margin-top: 10px;
+        }
+
+        .random-photo-info {
+            background: rgba(99, 102, 241, 0.1);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            display: none;
+        }
+        .random-photo-info i { font-size: 2rem; color: var(--primary); }
+        .random-photo-info p { font-size: 0.82rem; color: var(--text-muted); margin-top: 4px; }
+        .random-photo-info .title { font-weight: 700; color: var(--text-white); font-size: 0.9rem; }
+
+        /* ===== AUTO MODE PANEL ===== */
+        .auto-panel {
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(99, 102, 241, 0.08));
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            border-radius: 14px;
+            padding: 1.25rem;
+            display: none;
+        }
+
+        .auto-panel.visible { display: block; animation: slideDown 0.3s ease; }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .auto-panel-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+
+        .auto-panel-header .icon-box {
+            width: 40px; height: 40px;
+            background: rgba(16, 185, 129, 0.15);
+            border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.2rem;
+            color: var(--success);
+        }
+
+        .auto-panel-header h3 { font-size: 0.95rem; font-weight: 700; }
+        .auto-panel-header p { font-size: 0.75rem; color: var(--text-muted); }
+
+        .auto-refresh-btn {
+            width: 100%;
+            padding: 12px;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 10px;
+            color: var(--success);
+            font-weight: 700;
+            font-size: 0.85rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.2s;
+        }
+
+        .auto-refresh-btn:hover {
+            background: rgba(16, 185, 129, 0.25);
+            transform: translateY(-1px);
+        }
+
+        .auto-refresh-btn.spinning i { animation: spin 1s linear infinite; }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ===== DATA PREVIEW CHIPS ===== */
+        .data-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 10px;
+        }
+
+        .chip {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 6px 10px;
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .chip strong { color: var(--text-white); }
+
+        /* ===== BUTTONS ===== */
+        .btn-generate {
+            width: 100%;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: 800;
+            font-size: 0.95rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
+            position: relative;
+            overflow: hidden;
+            letter-spacing: 0.5px;
+        }
+
+        .btn-generate:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
+        }
+
+        .btn-generate:active { transform: translateY(0); }
+
+        .btn-generate:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-generate::before {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 100%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+            transition: 0.5s;
+        }
+
+        .btn-generate:hover::before { left: 100%; }
+
+        .btn-download {
+            width: 100%;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background: linear-gradient(135deg, var(--success), #059669);
+            color: white;
+            box-shadow: 0 8px 24px rgba(16, 185, 129, 0.3);
+            margin-top: 8px;
+            transition: all 0.3s;
+        }
+
+        .btn-download:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 32px rgba(16, 185, 129, 0.4);
+        }
+
+        /* ===== PREVIEW AREA ===== */
+        .preview-area {
+            flex: 1;
+            background: var(--bg-dark);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .preview-area::before {
+            content: '';
+            position: absolute;
+            width: 600px; height: 600px;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.08), transparent 70%);
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+        }
+
+        /* Dotted grid background */
+        .preview-area::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background-image: radial-gradient(rgba(99, 102, 241, 0.15) 1px, transparent 1px);
+            background-size: 24px 24px;
+            pointer-events: none;
+        }
+
+        .card-container {
+            width: 100%;
+            max-width: 880px;
+            aspect-ratio: 1011/638;
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            box-shadow: 0 30px 80px rgba(0, 0, 0, 0.3), 0 0 60px rgba(99, 102, 241, 0.05);
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            z-index: 1;
+            transition: all 0.4s;
+        }
+
+        .card-container svg { width: 100%; height: 100%; }
+
+        .placeholder {
+            text-align: center;
+            color: var(--text-muted);
+        }
+        .placeholder i { font-size: 4rem; opacity: 0.3; display: block; margin-bottom: 12px; }
+        .placeholder p { font-size: 0.9rem; font-weight: 500; }
+        .placeholder .sub { font-size: 0.75rem; margin-top: 6px; opacity: 0.5; }
+
+        /* ===== TOAST ===== */
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(30, 30, 58, 0.95);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border);
+            padding: 14px 22px;
+            border-radius: 12px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+            transform: translateX(calc(100% + 40px));
+            z-index: 100;
+            font-weight: 600;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .toast.show { transform: translateX(0); }
+        .toast .toast-icon { color: var(--primary); font-size: 1.2rem; }
+
+        /* ===== STATUS BAR ===== */
+        .status-bar {
+            background: rgba(0,0,0,0.3);
+            border-top: 1px solid var(--border);
+            padding: 10px 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.72rem;
+            color: var(--text-muted);
+        }
+
+        .status-dot {
+            width: 7px; height: 7px;
+            background: var(--success);
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+        }
+
+        /* ===== MOBILE RESPONSIVE ===== */
+        .mobile-header {
+            display: none;
+            background: var(--bg-sidebar);
+            border-bottom: 1px solid var(--border);
+            padding: 14px 1.2rem;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+        }
+
+        .mobile-header .brand { padding-bottom: 0; border-bottom: none; }
+
+        .hamburger {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 8px 10px;
+            color: var(--text-white);
+            cursor: pointer;
+            font-size: 1.2rem;
+            display: flex;
+        }
+
+        .sidebar-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.6);
+            z-index: 40;
+        }
+
+        @media (max-width: 900px) {
+            .app { flex-direction: column; }
+
+            .mobile-header { display: flex; }
+
+            .sidebar {
+                position: fixed;
+                top: 0; left: -100%;
+                width: 90%;
+                max-width: 400px;
+                min-width: unset;
+                height: 100vh;
+                z-index: 45;
+                transition: left 0.3s ease;
+            }
+
+            .sidebar.open { left: 0; }
+            .sidebar-overlay.active { display: block; }
+
+            .preview-area {
+                min-height: 50vh;
+                padding: 1rem;
+            }
+
+            .card-container {
+                max-width: 100%;
+                border-radius: 12px;
+            }
+        }
+
+        /* ===== SCROLLBAR ===== */
+        .sidebar::-webkit-scrollbar { width: 4px; }
+        .sidebar::-webkit-scrollbar-track { background: transparent; }
+        .sidebar::-webkit-scrollbar-thumb { background: rgba(99, 102, 241, 0.3); border-radius: 4px; }
+
+        /* ===== JENJANG SELECT ===== */
+        select option { background: #1e1e3a; color: var(--text-white); }
+    </style>
+</head>
+<body>
+
+    <div id="toast" class="toast">
+        <i class="ph ph-check-circle toast-icon"></i>
+        <span id="toastText">Notifikasi</span>
+    </div>
+
+    <!-- Mobile Header -->
+    <div class="mobile-header">
+        <div class="brand">
+            <div class="brand-icon"><i class="ph ph-identification-card"></i></div>
+            <div>
+                <h1 style="font-size:1rem;">KTM Generator</h1>
+            </div>
+        </div>
+        <button class="hamburger" onclick="toggleSidebar()"><i class="ph ph-list"></i></button>
+    </div>
+
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+
+    <div class="app">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-inner">
+                <!-- Brand -->
+                <div class="brand">
+                    <div class="brand-icon"><i class="ph ph-identification-card"></i></div>
+                    <div>
+                        <h1>KTM Generator</h1>
+                        <span>Pro Edition v2.0</span>
+                    </div>
+                </div>
+
+                <!-- Mode Switcher -->
+                <div class="mode-switcher">
+                    <button type="button" class="mode-btn active" id="modeManualBtn" onclick="setMode('manual')">
+                        <i class="ph ph-pencil-simple"></i> Manual
+                    </button>
+                    <button type="button" class="mode-btn" id="modeAutoBtn" onclick="setMode('auto')">
+                        <i class="ph ph-lightning"></i> Otomatis
+                    </button>
+                </div>
+
+                <form id="ktmForm">
+                    <!-- Auto Mode Panel -->
+                    <div class="auto-panel" id="autoPanel">
+                        <div class="auto-panel-header">
+                            <div class="icon-box"><i class="ph ph-database"></i></div>
+                            <div>
+                                <h3>Mode Otomatis</h3>
+                                <p>Data diambil dari database mahasiswa</p>
+                            </div>
+                        </div>
+                        <button type="button" class="auto-refresh-btn" id="autoRefreshBtn" onclick="loadRandomStudent()">
+                            <i class="ph ph-arrows-clockwise"></i> Ambil Data Random
+                        </button>
+                        <div class="data-chips" id="dataChips"></div>
+                    </div>
+
+                    <!-- University Section -->
+                    <div class="form-section">
+                        <div class="form-section-title">
+                            <i class="ph ph-buildings"></i> Informasi Kampus
+                        </div>
+                        <div class="form-group">
+                            <label>Universitas / Institusi</label>
+                            <select id="university" name="university" placeholder="Ketik nama kampus..."></select>
+                        </div>
+                    </div>
+
+                    <!-- Student Info Section -->
+                    <div class="form-section">
+                        <div class="form-section-title">
+                            <i class="ph ph-student"></i> Data Mahasiswa
+                        </div>
+
+                        <div class="form-group">
+                            <label>Nama Lengkap</label>
+                            <input type="text" id="name" name="name" placeholder="Masukkan nama lengkap">
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>NIM</label>
+                                <input type="text" id="nim" name="nim" placeholder="Nomor Induk">
+                            </div>
+                            <div class="form-group">
+                                <label>Angkatan</label>
+                                <input type="number" id="year" name="year" value="2024">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>Fakultas</label>
+                                <input type="text" id="faculty" name="faculty" placeholder="Fakultas">
+                            </div>
+                            <div class="form-group">
+                                <label>Program Studi</label>
+                                <input type="text" id="major" name="major" placeholder="Prodi">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>Jenjang</label>
+                                <select id="jenjang" name="jenjang">
+                                    <option value="S1">S1</option>
+                                    <option value="S2">S2</option>
+                                    <option value="S3">S3</option>
+                                    <option value="D3">D3</option>
+                                    <option value="D4">D4</option>
+                                    <option value="SMA">SMA</option>
+                                    <option value="SMK">SMK</option>
+                                    <option value="MA">MA</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Gender</label>
+                                <select id="gender" name="gender">
+                                    <option value="L">Laki-laki</option>
+                                    <option value="P">Perempuan</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Photo Section -->
+                    <div class="form-section">
+                        <div class="form-section-title">
+                            <i class="ph ph-camera"></i> Foto Mahasiswa
+                        </div>
+
+                        <div class="photo-switcher">
+                            <button type="button" class="switch-btn active" onclick="setPhotoMode(false)">
+                                <i class="ph ph-upload-simple"></i> Upload
+                            </button>
+                            <button type="button" class="switch-btn" onclick="setPhotoMode(true)">
+                                <i class="ph ph-shuffle"></i> Random
+                            </button>
+                        </div>
+
+                        <input type="hidden" id="useAI" name="useAI" value="false">
+
+                        <div id="uploadMode" class="file-upload-box">
+                            <input type="file" id="photo" name="photo" accept="image/*"
+                                style="position:absolute; width:100%; height:100%; top:0; left:0; opacity:0; cursor:pointer;">
+                            <i class="ph ph-image upload-icon"></i>
+                            <p>Klik atau drag foto di sini</p>
+                            <img id="previewImg" class="file-preview">
+                        </div>
+
+                        <div id="randomMode" class="random-photo-info">
+                            <i class="ph ph-user-focus"></i>
+                            <p class="title">Foto Random Aktif</p>
+                            <p>Sistem memilih foto secara acak dari database</p>
+                        </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <button type="submit" id="genBtn" class="btn-generate">
+                        <i class="ph ph-sparkle"></i> GENERATE KARTU
+                    </button>
+
+                    <button type="button" id="dlBtn" class="btn-download">
+                        <i class="ph ph-download-simple"></i> Download PNG (HD)
+                    </button>
+                </form>
+            </div>
+
+            <!-- Status Bar -->
+            <div class="status-bar">
+                <div>
+                    <span class="status-dot"></span>
+                    <span id="statusDb">Memuat database...</span>
+                </div>
+                <span id="statusMode">Mode: Manual</span>
+            </div>
+        </aside>
+
+        <!-- Preview Area -->
+        <main class="preview-area">
+            <div class="card-container" id="cardContainer">
+                <div class="placeholder">
+                    <i class="ph ph-identification-card"></i>
+                    <p>Preview Kartu akan muncul di sini</p>
+                    <p class="sub">Pilih mode ⟶ Isi data ⟶ Generate</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let uniSelectControl;
+        let currentMode = 'manual';
+
+        // =============================================
+        // MODE SWITCHER
+        // =============================================
+        function setMode(mode) {
+            currentMode = mode;
+            const manualBtn = document.getElementById('modeManualBtn');
+            const autoBtn = document.getElementById('modeAutoBtn');
+            const autoPanel = document.getElementById('autoPanel');
+            const statusMode = document.getElementById('statusMode');
+            const fields = document.querySelectorAll('#name, #nim, #faculty, #major, #year');
+
+            if (mode === 'auto') {
+                manualBtn.classList.remove('active');
+                autoBtn.classList.add('active');
+                autoPanel.classList.add('visible');
+                statusMode.textContent = 'Mode: Otomatis ⚡';
+
+                // Set fields readonly
+                fields.forEach(f => f.setAttribute('readonly', true));
+
+                // Auto set random photo
+                setPhotoMode(true);
+
+            } else {
+                manualBtn.classList.add('active');
+                autoBtn.classList.remove('active');
+                autoPanel.classList.remove('visible');
+                statusMode.textContent = 'Mode: Manual ✏️';
+
+                // Remove readonly
+                fields.forEach(f => f.removeAttribute('readonly'));
+            }
+        }
+
+        // =============================================
+        // LOAD RANDOM STUDENT (for Auto Mode)
+        // =============================================
+        async function loadRandomStudent() {
+            const refreshBtn = document.getElementById('autoRefreshBtn');
+            const chipsDiv = document.getElementById('dataChips');
+            refreshBtn.classList.add('spinning');
+
+            try {
+                // Get optional university filter
+                const uniVal = uniSelectControl ? uniSelectControl.getValue() : '';
+                let url = '/random-student';
+                if (uniVal) url += '?university=' + encodeURIComponent(uniVal);
+
+                const res = await fetch(url);
+                const d = await res.json();
+
+                document.getElementById('name').value = d.name || '';
+                document.getElementById('nim').value = d.nim || '';
+                document.getElementById('faculty').value = d.faculty || '';
+                document.getElementById('major').value = d.major || '';
+                document.getElementById('year').value = d.year || 2024;
+
+                // Set jenjang
+                const jenjangSel = document.getElementById('jenjang');
+                for (let opt of jenjangSel.options) {
+                    if (opt.value === d.jenjang) { opt.selected = true; break; }
+                }
+
+                // Set gender
+                const genderSel = document.getElementById('gender');
+                for (let opt of genderSel.options) {
+                    if (opt.value === d.gender) { opt.selected = true; break; }
+                }
+
+                // Update university in Tom Select
+                if (uniSelectControl && d.university) {
+                    if (!uniSelectControl.options[d.university]) {
+                        uniSelectControl.addOption({ value: d.university, text: d.university });
+                    }
+                    uniSelectControl.setValue(d.university);
+                }
+
+                // Display data chips
+                chipsDiv.innerHTML = `
+                    <div class="chip"><i class="ph ph-user"></i> <strong>${d.name}</strong></div>
+                    <div class="chip"><i class="ph ph-hash"></i> ${d.nim}</div>
+                    <div class="chip"><i class="ph ph-graduation-cap"></i> ${d.faculty}</div>
+                    <div class="chip"><i class="ph ph-book-open"></i> ${d.major}</div>
+                    <div class="chip"><i class="ph ph-calendar"></i> ${d.year}</div>
+                `;
+
+                showToast('Data mahasiswa berhasil dimuat!');
+            } catch (e) {
+                showToast('Gagal memuat data random');
+            } finally {
+                refreshBtn.classList.remove('spinning');
+            }
+        }
+
+        // =============================================
+        // PHOTO MODE
+        // =============================================
+        function setPhotoMode(isRandom) {
+            const uploadDiv = document.getElementById('uploadMode');
+            const randomDiv = document.getElementById('randomMode');
+            const btns = document.querySelectorAll('.photo-switcher .switch-btn');
+            document.getElementById('useAI').value = isRandom ? 'true' : 'false';
+
+            if (isRandom) {
+                uploadDiv.style.display = 'none';
+                randomDiv.style.display = 'block';
+                btns[0].classList.remove('active');
+                btns[1].classList.add('active');
+            } else {
+                uploadDiv.style.display = 'block';
+                randomDiv.style.display = 'none';
+                btns[0].classList.add('active');
+                btns[1].classList.remove('active');
+            }
+        }
+
+        // Photo preview
+        document.getElementById('photo').addEventListener('change', function (e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (evt) {
+                    const img = document.getElementById('previewImg');
+                    img.src = evt.target.result;
+                    img.style.display = 'block';
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // =============================================
+        // INIT TOM SELECT
+        // =============================================
+        function initSearchDropdown() {
+            if (uniSelectControl) uniSelectControl.destroy();
+            uniSelectControl = new TomSelect('#university', {
+                create: false,
+                sortField: { field: 'text', direction: 'asc' },
+                placeholder: 'Ketik nama universitas...',
+                maxOptions: 150
+            });
+        }
+
+        // =============================================
+        // LOAD CAMPUS DATA
+        // =============================================
+        window.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const res = await fetch('/kampus-list');
+                const data = await res.json();
+
+                const sel = document.getElementById('university');
+                sel.innerHTML = '<option value="">Pilih Kampus...</option>';
+                data.forEach(k => {
+                    const opt = document.createElement('option');
+                    opt.value = k; opt.text = k;
+                    sel.appendChild(opt);
+                });
+
+                initSearchDropdown();
+                document.getElementById('statusDb').textContent = `Database: ${data.length} kampus tersedia`;
+            } catch (e) {
+                console.error(e);
+                document.getElementById('statusDb').textContent = 'Database gagal dimuat';
+                showToast('Gagal memuat database kampus');
+            }
+        });
+
+        // =============================================
+        // GENERATE CARD
+        // =============================================
+        document.getElementById('ktmForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('genBtn');
+            const dlBtn = document.getElementById('dlBtn');
+            const container = document.getElementById('cardContainer');
+
+            btn.innerHTML = '<i class="ph ph-spinner ph-spin"></i> Memproses...';
+            btn.disabled = true;
+            container.style.opacity = 0.4;
+            dlBtn.style.display = 'none';
+
+            const fd = new FormData(e.target);
+
+            try {
+                const res = await fetch('/generate', { method: 'POST', body: fd });
+                const data = await res.json();
+
+                if (data.svg) {
+                    container.innerHTML = data.svg;
+                    container.style.background = 'white';
+                    showToast('Kartu berhasil dibuat!');
+                    dlBtn.style.display = 'flex';
+                } else {
+                    showToast('Error: ' + data.error);
+                }
+            } catch (err) {
+                showToast('Server Error — pastikan server berjalan');
+            } finally {
+                btn.innerHTML = '<i class="ph ph-sparkle"></i> GENERATE KARTU';
+                btn.disabled = false;
+                container.style.opacity = 1;
+            }
+        });
+
+        // =============================================
+        // DOWNLOAD PNG
+        // =============================================
+        document.getElementById('dlBtn').addEventListener('click', () => {
+            const svg = document.querySelector('#cardContainer svg');
+            if (!svg) return;
+
+            showToast('Merender gambar HD...');
+
+            const serializer = new XMLSerializer();
+            const svgStr = serializer.serializeToString(svg);
+            const img = new Image();
+
+            img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgStr)));
+
+            img.onload = () => {
+                const canvas = document.createElement('canvas');
+                canvas.width = 1011;
+                canvas.height = 638;
+                const ctx = canvas.getContext('2d');
+                ctx.fillStyle = '#ffffff';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                ctx.drawImage(img, 0, 0);
+
+                const a = document.createElement('a');
+                a.download = 'KTM-DIGITAL-HD.png';
+                a.href = canvas.toDataURL('image/png');
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+
+                showToast('Download berhasil!');
+            };
+        });
+
+        // =============================================
+        // TOAST
+        // =============================================
+        function showToast(msg) {
+            const t = document.getElementById('toast');
+            document.getElementById('toastText').textContent = msg;
+            t.classList.add('show');
+            setTimeout(() => t.classList.remove('show'), 3000);
+        }
+
+        // =============================================
+        // MOBILE SIDEBAR TOGGLE
+        // =============================================
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+            document.getElementById('sidebarOverlay').classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

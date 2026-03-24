@@ -1,0 +1,46 @@
+node_modules/
+.env
+debug_*.html
+*.zip
+*.txt
+*.py
+output_cards/
+cookies.json
+codes.json
+db.json
+
+# Non-KTM scripts
+bot.js
+bot2.js
+ghs.js
+ghs-backup..js
+ghsup.js
+ktm.js
+scp.js
+2fa.js
+a.js
+locup.js
+logoscp.js
+upgh.js
+adduniv
+server2.js
+server (1).js
+server (15).js
+
+# Folders not needed
+Danxy/
+acid/
+checker/
+dukcapil/
+ghs/
+schid/
+university_logos/
+utils/
+
+# Enriched/alternative databases
+database_kampus_enriched.json
+database_kampus_final_github.json
+database_kampus_lengkap2.json
+
+# Images
+ktm.jpg

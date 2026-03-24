@@ -1,0 +1,5002 @@
+[
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Dinda Nugroho",
+    "gender": "P",
+    "nim": "2024207425",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Fajar Wijaya",
+    "gender": "L",
+    "nim": "2024466554",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Bayu Nugroho",
+    "gender": "L",
+    "nim": "2024519029",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Gita Saputra",
+    "gender": "P",
+    "nim": "2024974013",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Bayu Kusuma",
+    "gender": "L",
+    "nim": "2024201343",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Siti Saputra",
+    "gender": "P",
+    "nim": "2024299188",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Aditya Saputra",
+    "gender": "L",
+    "nim": "2024936433",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024734005",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Kevin Nugroho",
+    "gender": "L",
+    "nim": "2024570614",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Muhammad Saputra",
+    "gender": "L",
+    "nim": "2024792459",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Fitri Santoso",
+    "gender": "P",
+    "nim": "2024684573",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Budi Santoso",
+    "gender": "L",
+    "nim": "2024310166",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Hani Nugroho",
+    "gender": "P",
+    "nim": "2024989069",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Dinda Hidayat",
+    "gender": "P",
+    "nim": "2024742865",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024592233",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024991711",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Hani Nugroho",
+    "gender": "P",
+    "nim": "2024844441",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024129249",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024646179",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024681306",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024256214",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024153597",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024586408",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Aulia Nugroho",
+    "gender": "P",
+    "nim": "2024511704",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Muhammadiyah 02 Ciputat",
+    "name": "Fitri Kusuma",
+    "gender": "P",
+    "nim": "2024561198",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Fitri Saputra",
+    "gender": "P",
+    "nim": "2024746227",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Gita Wijaya",
+    "gender": "P",
+    "nim": "2024717839",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Budi Santoso",
+    "gender": "L",
+    "nim": "2024283738",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Rizky Kusuma",
+    "gender": "L",
+    "nim": "2024906521",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Fitri Pratama",
+    "gender": "P",
+    "nim": "2024935683",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Gita Nugroho",
+    "gender": "P",
+    "nim": "2024743175",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Muhammad Kusuma",
+    "gender": "L",
+    "nim": "2024777712",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Budi Pratama",
+    "gender": "L",
+    "nim": "2024959203",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024839855",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Kevin Santoso",
+    "gender": "L",
+    "nim": "2024678640",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024791068",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Dinda Kusuma",
+    "gender": "P",
+    "nim": "2024466179",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024832852",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Rizky Nugroho",
+    "gender": "L",
+    "nim": "2024321842",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024811261",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024252000",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024424625",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Budi Hidayat",
+    "gender": "L",
+    "nim": "2024580667",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Aditya Nugroho",
+    "gender": "L",
+    "nim": "2024374335",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangerang",
+    "name": "Putri Santoso",
+    "gender": "P",
+    "nim": "2024423595",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Ahmad Hidayat",
+    "gender": "L",
+    "nim": "2024998912",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangerang",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024469151",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Dimas Wijaya",
+    "gender": "L",
+    "nim": "2024390969",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024661056",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Gita Nugroho",
+    "gender": "P",
+    "nim": "2024880135",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024979690",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Putri Pratama",
+    "gender": "P",
+    "nim": "2024428749",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024897114",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Hani Hidayat",
+    "gender": "P",
+    "nim": "2024668175",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Dinda Santoso",
+    "gender": "P",
+    "nim": "2024386263",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Fajar Santoso",
+    "gender": "L",
+    "nim": "2024393540",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Budi Hidayat",
+    "gender": "L",
+    "nim": "2024903381",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Hani Hidayat",
+    "gender": "P",
+    "nim": "2024260815",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Dinda Santoso",
+    "gender": "P",
+    "nim": "2024377210",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Indah Santoso",
+    "gender": "P",
+    "nim": "2024292420",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Dinda Wijaya",
+    "gender": "P",
+    "nim": "2024967979",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024779670",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Siti Kusuma",
+    "gender": "P",
+    "nim": "2024660951",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Dimas Hidayat",
+    "gender": "L",
+    "nim": "2024382901",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Ahmad Nugroho",
+    "gender": "L",
+    "nim": "2024220772",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024344486",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024294963",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024916509",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024489906",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Nur Saputra",
+    "gender": "P",
+    "nim": "2024712540",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024572185",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024281111",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Indah Santoso",
+    "gender": "P",
+    "nim": "2024280026",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Hani Saputra",
+    "gender": "P",
+    "nim": "2024633888",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024661314",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024128269",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Muhammad Pratama",
+    "gender": "L",
+    "nim": "2024345862",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024958992",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Aditya Saputra",
+    "gender": "L",
+    "nim": "2024252319",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024421975",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Hani Nugroho",
+    "gender": "P",
+    "nim": "2024722931",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Putri Kusuma",
+    "gender": "P",
+    "nim": "2024867316",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Muhammad Pratama",
+    "gender": "L",
+    "nim": "2024708815",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Muhammad Nugroho",
+    "gender": "L",
+    "nim": "2024659382",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Aulia Kusuma",
+    "gender": "P",
+    "nim": "2024598755",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Siti Wijaya",
+    "gender": "P",
+    "nim": "2024265733",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangerang",
+    "name": "Budi Pratama",
+    "gender": "L",
+    "nim": "2024715247",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Kevin Saputra",
+    "gender": "L",
+    "nim": "2024994562",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Rizky Saputra",
+    "gender": "L",
+    "nim": "2024467196",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Fitri Kusuma",
+    "gender": "P",
+    "nim": "2024312732",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024122400",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024498262",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024127546",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Muhammad Kusuma",
+    "gender": "L",
+    "nim": "2024152994",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangerang",
+    "name": "Budi Wijaya",
+    "gender": "L",
+    "nim": "2024405411",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024134769",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Indah Saputra",
+    "gender": "P",
+    "nim": "2024402310",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Budi Saputra",
+    "gender": "L",
+    "nim": "2024427143",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Dinda Nugroho",
+    "gender": "P",
+    "nim": "2024759749",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Dimas Santoso",
+    "gender": "L",
+    "nim": "2024299924",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Nur Nugroho",
+    "gender": "P",
+    "nim": "2024371298",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Fitri Santoso",
+    "gender": "P",
+    "nim": "2024532302",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Siti Wijaya",
+    "gender": "P",
+    "nim": "2024601982",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Dimas Hidayat",
+    "gender": "L",
+    "nim": "2024812385",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024204025",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Nur Wijaya",
+    "gender": "P",
+    "nim": "2024177174",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024392029",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Putri Hidayat",
+    "gender": "P",
+    "nim": "2024107722",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Indah Pratama",
+    "gender": "P",
+    "nim": "2024318399",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Siti Saputra",
+    "gender": "P",
+    "nim": "2024952398",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Fajar Wijaya",
+    "gender": "L",
+    "nim": "2024315742",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Budi Wijaya",
+    "gender": "L",
+    "nim": "2024274876",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangerang",
+    "name": "Hani Saputra",
+    "gender": "P",
+    "nim": "2024216776",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024812954",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangerang",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024414220",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Dimas Nugroho",
+    "gender": "L",
+    "nim": "2024454210",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Dimas Nugroho",
+    "gender": "L",
+    "nim": "2024301836",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Kevin Nugroho",
+    "gender": "L",
+    "nim": "2024342669",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Aulia Santoso",
+    "gender": "P",
+    "nim": "2024570480",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Santoso",
+    "gender": "L",
+    "nim": "2024721834",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Dinda Nugroho",
+    "gender": "P",
+    "nim": "2024419235",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024194546",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Putri Wijaya",
+    "gender": "P",
+    "nim": "2024414869",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Santoso",
+    "gender": "L",
+    "nim": "2024980507",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Ahmad Santoso",
+    "gender": "L",
+    "nim": "2024179759",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024971547",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Ahmad Pratama",
+    "gender": "L",
+    "nim": "2024827164",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024226504",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024837070",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Nur Hidayat",
+    "gender": "P",
+    "nim": "2024329612",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Nur Saputra",
+    "gender": "P",
+    "nim": "2024914722",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Dinda Nugroho",
+    "gender": "P",
+    "nim": "2024100492",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Ahmad Hidayat",
+    "gender": "L",
+    "nim": "2024855430",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Indah Wijaya",
+    "gender": "P",
+    "nim": "2024438573",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024889968",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024902978",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Aditya Santoso",
+    "gender": "L",
+    "nim": "2024756489",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024244564",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Bayu Kusuma",
+    "gender": "L",
+    "nim": "2024605449",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024591893",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Putri Santoso",
+    "gender": "P",
+    "nim": "2024599859",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Ahmad Santoso",
+    "gender": "L",
+    "nim": "2024522133",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024585132",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024983572",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Dimas Kusuma",
+    "gender": "L",
+    "nim": "2024963141",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024334891",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Gita Santoso",
+    "gender": "P",
+    "nim": "2024251880",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024644012",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Fajar Wijaya",
+    "gender": "L",
+    "nim": "2024932530",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Hani Wijaya",
+    "gender": "P",
+    "nim": "2024341001",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fitri Nugroho",
+    "gender": "P",
+    "nim": "2024245707",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Siti Wijaya",
+    "gender": "P",
+    "nim": "2024169846",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024198802",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024886156",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Dinda Kusuma",
+    "gender": "P",
+    "nim": "2024343375",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Bayu Wijaya",
+    "gender": "L",
+    "nim": "2024125497",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Nur Nugroho",
+    "gender": "P",
+    "nim": "2024578708",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Fajar Wijaya",
+    "gender": "L",
+    "nim": "2024725411",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Nur Santoso",
+    "gender": "P",
+    "nim": "2024320767",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Kevin Kusuma",
+    "gender": "L",
+    "nim": "2024464089",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024532605",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Aditya Hidayat",
+    "gender": "L",
+    "nim": "2024500866",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Gita Wijaya",
+    "gender": "P",
+    "nim": "2024105157",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024409688",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Dinda Hidayat",
+    "gender": "P",
+    "nim": "2024511918",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024544638",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Budi Hidayat",
+    "gender": "L",
+    "nim": "2024164992",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024106696",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Bayu Wijaya",
+    "gender": "L",
+    "nim": "2024788311",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024815110",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fajar Pratama",
+    "gender": "L",
+    "nim": "2024227493",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Dinda Saputra",
+    "gender": "P",
+    "nim": "2024605716",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Putri Santoso",
+    "gender": "P",
+    "nim": "2024131939",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Kevin Wijaya",
+    "gender": "L",
+    "nim": "2024137627",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Siti Hidayat",
+    "gender": "P",
+    "nim": "2024950025",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Ahmad Wijaya",
+    "gender": "L",
+    "nim": "2024843403",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Aditya Wijaya",
+    "gender": "L",
+    "nim": "2024421492",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Putri Santoso",
+    "gender": "P",
+    "nim": "2024335568",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024155407",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Indah Saputra",
+    "gender": "P",
+    "nim": "2024256743",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024900762",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Rizky Hidayat",
+    "gender": "L",
+    "nim": "2024830177",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024768470",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Nur Wijaya",
+    "gender": "P",
+    "nim": "2024392543",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Nur Wijaya",
+    "gender": "P",
+    "nim": "2024438117",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Indah Wijaya",
+    "gender": "P",
+    "nim": "2024605918",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024797831",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024994560",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Putri Hidayat",
+    "gender": "P",
+    "nim": "2024905652",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Putri Pratama",
+    "gender": "P",
+    "nim": "2024567636",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024757388",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Putri Wijaya",
+    "gender": "P",
+    "nim": "2024369544",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Dimas Pratama",
+    "gender": "L",
+    "nim": "2024287352",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Indah Saputra",
+    "gender": "P",
+    "nim": "2024569122",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024283901",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Nugroho",
+    "gender": "L",
+    "nim": "2024393751",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024349959",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Fitri Santoso",
+    "gender": "P",
+    "nim": "2024317695",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Nur Nugroho",
+    "gender": "P",
+    "nim": "2024277908",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024718409",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Gita Hidayat",
+    "gender": "P",
+    "nim": "2024116758",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Gita Pratama",
+    "gender": "P",
+    "nim": "2024643543",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Dimas Saputra",
+    "gender": "L",
+    "nim": "2024967462",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Hani Saputra",
+    "gender": "P",
+    "nim": "2024998199",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Fajar Saputra",
+    "gender": "L",
+    "nim": "2024103633",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024837352",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Aulia Pratama",
+    "gender": "P",
+    "nim": "2024112210",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024407979",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024702481",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Budi Saputra",
+    "gender": "L",
+    "nim": "2024183067",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024815234",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Aditya Nugroho",
+    "gender": "L",
+    "nim": "2024130885",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024177628",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Dimas Hidayat",
+    "gender": "L",
+    "nim": "2024245165",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024673350",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Gita Saputra",
+    "gender": "P",
+    "nim": "2024320912",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Fitri Pratama",
+    "gender": "P",
+    "nim": "2024146223",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Kevin Pratama",
+    "gender": "L",
+    "nim": "2024415217",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Indah Kusuma",
+    "gender": "P",
+    "nim": "2024235659",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024886525",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Budi Pratama",
+    "gender": "L",
+    "nim": "2024526767",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Kevin Kusuma",
+    "gender": "L",
+    "nim": "2024985463",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Muhammad Pratama",
+    "gender": "L",
+    "nim": "2024810021",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024792246",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Gita Santoso",
+    "gender": "P",
+    "nim": "2024668468",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Ahmad Santoso",
+    "gender": "L",
+    "nim": "2024420598",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Dimas Nugroho",
+    "gender": "L",
+    "nim": "2024170563",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Dimas Pratama",
+    "gender": "L",
+    "nim": "2024769965",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024274550",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Nur Kusuma",
+    "gender": "P",
+    "nim": "2024948548",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Fajar Pratama",
+    "gender": "L",
+    "nim": "2024893240",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024760022",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Indah Saputra",
+    "gender": "P",
+    "nim": "2024856198",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Rizky Saputra",
+    "gender": "L",
+    "nim": "2024764344",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Putri Pratama",
+    "gender": "P",
+    "nim": "2024216977",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Hani Wijaya",
+    "gender": "P",
+    "nim": "2024317713",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Putri Nugroho",
+    "gender": "P",
+    "nim": "2024502584",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fitri Kusuma",
+    "gender": "P",
+    "nim": "2024853430",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Kevin Hidayat",
+    "gender": "L",
+    "nim": "2024635989",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Dimas Wijaya",
+    "gender": "L",
+    "nim": "2024364978",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024360661",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024196800",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Rizky Hidayat",
+    "gender": "L",
+    "nim": "2024663684",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Ahmad Nugroho",
+    "gender": "L",
+    "nim": "2024332014",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Aditya Santoso",
+    "gender": "L",
+    "nim": "2024727887",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Gita Saputra",
+    "gender": "P",
+    "nim": "2024858353",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Bayu Pratama",
+    "gender": "L",
+    "nim": "2024307944",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024478989",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024647226",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Dinda Saputra",
+    "gender": "P",
+    "nim": "2024507142",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024747386",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024679466",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024595586",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024708452",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Fajar Saputra",
+    "gender": "L",
+    "nim": "2024914363",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024773848",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Gita Saputra",
+    "gender": "P",
+    "nim": "2024496853",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Siti Kusuma",
+    "gender": "P",
+    "nim": "2024267637",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Siti Hidayat",
+    "gender": "P",
+    "nim": "2024787888",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Siti Saputra",
+    "gender": "P",
+    "nim": "2024139593",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Fajar Pratama",
+    "gender": "L",
+    "nim": "2024998896",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024251672",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Ahmad Hidayat",
+    "gender": "L",
+    "nim": "2024185307",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024569703",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Hani Wijaya",
+    "gender": "P",
+    "nim": "2024284711",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fajar Hidayat",
+    "gender": "L",
+    "nim": "2024963400",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Putri Saputra",
+    "gender": "P",
+    "nim": "2024598106",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Nur Santoso",
+    "gender": "P",
+    "nim": "2024368697",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Budi Pratama",
+    "gender": "L",
+    "nim": "2024717521",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Budi Kusuma",
+    "gender": "L",
+    "nim": "2024517687",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Siti Kusuma",
+    "gender": "P",
+    "nim": "2024485258",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Rizky Kusuma",
+    "gender": "L",
+    "nim": "2024438548",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024924917",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangerang",
+    "name": "Siti Kusuma",
+    "gender": "P",
+    "nim": "2024188655",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Budi Santoso",
+    "gender": "L",
+    "nim": "2024473442",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024122688",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Siti Hidayat",
+    "gender": "P",
+    "nim": "2024868424",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Indah Wijaya",
+    "gender": "P",
+    "nim": "2024788789",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Kevin Hidayat",
+    "gender": "L",
+    "nim": "2024400464",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Dimas Saputra",
+    "gender": "L",
+    "nim": "2024700012",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangerang",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024238856",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Siti Saputra",
+    "gender": "P",
+    "nim": "2024888010",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Kevin Wijaya",
+    "gender": "L",
+    "nim": "2024917524",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024918720",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Bayu Santoso",
+    "gender": "L",
+    "nim": "2024809505",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Gita Santoso",
+    "gender": "P",
+    "nim": "2024527855",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Gita Wijaya",
+    "gender": "P",
+    "nim": "2024162529",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Ahmad Pratama",
+    "gender": "L",
+    "nim": "2024601365",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Aulia Pratama",
+    "gender": "P",
+    "nim": "2024762657",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024916585",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Aulia Wijaya",
+    "gender": "P",
+    "nim": "2024713305",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Muhammad Nugroho",
+    "gender": "L",
+    "nim": "2024801756",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024384055",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Fajar Santoso",
+    "gender": "L",
+    "nim": "2024133867",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Dimas Pratama",
+    "gender": "L",
+    "nim": "2024255855",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Nur Wijaya",
+    "gender": "P",
+    "nim": "2024296313",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024105545",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Dimas Nugroho",
+    "gender": "L",
+    "nim": "2024883496",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Fitri Kusuma",
+    "gender": "P",
+    "nim": "2024419495",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024770656",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Aditya Nugroho",
+    "gender": "L",
+    "nim": "2024272610",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024121163",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Ahmad Pratama",
+    "gender": "L",
+    "nim": "2024133339",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Bayu Wijaya",
+    "gender": "L",
+    "nim": "2024113806",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Aulia Santoso",
+    "gender": "P",
+    "nim": "2024782731",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024916278",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Ahmad Pratama",
+    "gender": "L",
+    "nim": "2024823762",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024604351",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024519032",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Kab. Tangerang",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024413939",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024366368",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Ahmad Nugroho",
+    "gender": "L",
+    "nim": "2024286933",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Muhammadiyah 02 Ciputat",
+    "name": "Ahmad Saputra",
+    "gender": "L",
+    "nim": "2024392387",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Aditya Santoso",
+    "gender": "L",
+    "nim": "2024689962",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Fitri Nugroho",
+    "gender": "P",
+    "nim": "2024360099",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024134196",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Aulia Nugroho",
+    "gender": "P",
+    "nim": "2024910783",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024457667",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024746221",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Kevin Pratama",
+    "gender": "L",
+    "nim": "2024746846",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024689920",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA UPH College",
+    "name": "Siti Santoso",
+    "gender": "P",
+    "nim": "2024875850",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Aditya Kusuma",
+    "gender": "L",
+    "nim": "2024325634",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Fitri Saputra",
+    "gender": "P",
+    "nim": "2024997827",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Nur Pratama",
+    "gender": "P",
+    "nim": "2024144507",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024764453",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Putri Nugroho",
+    "gender": "P",
+    "nim": "2024503175",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Budi Hidayat",
+    "gender": "L",
+    "nim": "2024527007",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Nur Pratama",
+    "gender": "P",
+    "nim": "2024172673",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Dinda Wijaya",
+    "gender": "P",
+    "nim": "2024706568",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Budi Santoso",
+    "gender": "L",
+    "nim": "2024949245",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024162801",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Muhammad Pratama",
+    "gender": "L",
+    "nim": "2024844388",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Indah Nugroho",
+    "gender": "P",
+    "nim": "2024180258",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Fitri Saputra",
+    "gender": "P",
+    "nim": "2024653882",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024728132",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Aulia Saputra",
+    "gender": "P",
+    "nim": "2024590255",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Muhammadiyah 02 Ciputat",
+    "name": "Dinda Wijaya",
+    "gender": "P",
+    "nim": "2024604383",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Dimas Kusuma",
+    "gender": "L",
+    "nim": "2024568900",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Kevin Santoso",
+    "gender": "L",
+    "nim": "2024493863",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024572545",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fitri Hidayat",
+    "gender": "P",
+    "nim": "2024783378",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Budi Wijaya",
+    "gender": "L",
+    "nim": "2024656762",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024859198",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024143368",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Nugroho",
+    "gender": "L",
+    "nim": "2024413355",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Pahoa",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024349187",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Hani Saputra",
+    "gender": "P",
+    "nim": "2024299518",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Dinda Saputra",
+    "gender": "P",
+    "nim": "2024908736",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Putri Nugroho",
+    "gender": "P",
+    "nim": "2024664348",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Aulia Kusuma",
+    "gender": "P",
+    "nim": "2024743409",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024109489",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Dinda Kusuma",
+    "gender": "P",
+    "nim": "2024192600",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024553318",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024772982",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Wijaya",
+    "gender": "L",
+    "nim": "2024705106",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Ahmad Pratama",
+    "gender": "L",
+    "nim": "2024502641",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Budi Santoso",
+    "gender": "L",
+    "nim": "2024953680",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Kevin Kusuma",
+    "gender": "L",
+    "nim": "2024208554",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Fajar Hidayat",
+    "gender": "L",
+    "nim": "2024761563",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024156396",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Rizky Saputra",
+    "gender": "L",
+    "nim": "2024401396",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Kevin Saputra",
+    "gender": "L",
+    "nim": "2024590978",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Muhammad Hidayat",
+    "gender": "L",
+    "nim": "2024371938",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Indah Nugroho",
+    "gender": "P",
+    "nim": "2024600036",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Dinda Hidayat",
+    "gender": "P",
+    "nim": "2024598175",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Dimas Santoso",
+    "gender": "L",
+    "nim": "2024949693",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Gita Nugroho",
+    "gender": "P",
+    "nim": "2024743728",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024647092",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Fitri Saputra",
+    "gender": "P",
+    "nim": "2024854128",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024402777",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangerang",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024139150",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024509250",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Kevin Santoso",
+    "gender": "L",
+    "nim": "2024797931",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Muhammad Pratama",
+    "gender": "L",
+    "nim": "2024539061",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Aulia Kusuma",
+    "gender": "P",
+    "nim": "2024592780",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Fitri Santoso",
+    "gender": "P",
+    "nim": "2024745084",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024148177",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Nur Nugroho",
+    "gender": "P",
+    "nim": "2024491329",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Siti Wijaya",
+    "gender": "P",
+    "nim": "2024423947",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Putri Nugroho",
+    "gender": "P",
+    "nim": "2024938332",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Putri Wijaya",
+    "gender": "P",
+    "nim": "2024735874",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangerang",
+    "name": "Siti Santoso",
+    "gender": "P",
+    "nim": "2024291304",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Budi Kusuma",
+    "gender": "L",
+    "nim": "2024848489",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Putri Kusuma",
+    "gender": "P",
+    "nim": "2024151294",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Hani Wijaya",
+    "gender": "P",
+    "nim": "2024102389",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Putri Kusuma",
+    "gender": "P",
+    "nim": "2024258648",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Aditya Pratama",
+    "gender": "L",
+    "nim": "2024503004",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Rizky Saputra",
+    "gender": "L",
+    "nim": "2024382185",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Ahmad Santoso",
+    "gender": "L",
+    "nim": "2024729836",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Fajar Pratama",
+    "gender": "L",
+    "nim": "2024833201",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Bayu Santoso",
+    "gender": "L",
+    "nim": "2024357536",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Kevin Pratama",
+    "gender": "L",
+    "nim": "2024243356",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Aulia Hidayat",
+    "gender": "P",
+    "nim": "2024222373",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024810148",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Ahmad Santoso",
+    "gender": "L",
+    "nim": "2024943835",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024767075",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Gita Kusuma",
+    "gender": "P",
+    "nim": "2024643705",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Hani Wijaya",
+    "gender": "P",
+    "nim": "2024365234",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Hani Pratama",
+    "gender": "P",
+    "nim": "2024295606",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Fajar Pratama",
+    "gender": "L",
+    "nim": "2024350992",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024818162",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Aditya Santoso",
+    "gender": "L",
+    "nim": "2024194672",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Rizky Saputra",
+    "gender": "L",
+    "nim": "2024626072",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Bayu Nugroho",
+    "gender": "L",
+    "nim": "2024691740",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024811555",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Siti Santoso",
+    "gender": "P",
+    "nim": "2024814590",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Muhammad Wijaya",
+    "gender": "L",
+    "nim": "2024818469",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024583492",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Putri Wijaya",
+    "gender": "P",
+    "nim": "2024172318",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024502292",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kab. Tangerang",
+    "name": "Ahmad Saputra",
+    "gender": "L",
+    "nim": "2024984935",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Aulia Santoso",
+    "gender": "P",
+    "nim": "2024190507",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Putri Santoso",
+    "gender": "P",
+    "nim": "2024213306",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024436199",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024229660",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMK Muhammadiyah 02 Ciputat",
+    "name": "Nur Hidayat",
+    "gender": "P",
+    "nim": "2024801393",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Dinda Wijaya",
+    "gender": "P",
+    "nim": "2024862559",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Gita Pratama",
+    "gender": "P",
+    "nim": "2024378139",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Indah Nugroho",
+    "gender": "P",
+    "nim": "2024800406",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Putri Pratama",
+    "gender": "P",
+    "nim": "2024439305",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Kevin Wijaya",
+    "gender": "L",
+    "nim": "2024841401",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Aulia Pratama",
+    "gender": "P",
+    "nim": "2024852739",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024512840",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Aulia Santoso",
+    "gender": "P",
+    "nim": "2024927170",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Aulia Santoso",
+    "gender": "P",
+    "nim": "2024176182",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Ahmad Saputra",
+    "gender": "L",
+    "nim": "2024209551",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024794411",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 6 Kab. Tangerang",
+    "name": "Putri Kusuma",
+    "gender": "P",
+    "nim": "2024860902",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Budi Nugroho",
+    "gender": "L",
+    "nim": "2024271173",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Siti Saputra",
+    "gender": "P",
+    "nim": "2024945305",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Budi Saputra",
+    "gender": "L",
+    "nim": "2024920732",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024687776",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Fajar Kusuma",
+    "gender": "L",
+    "nim": "2024335405",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Bayu Hidayat",
+    "gender": "L",
+    "nim": "2024605856",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 2 Tangsel",
+    "name": "Bayu Wijaya",
+    "gender": "L",
+    "nim": "2024310507",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Putri Hidayat",
+    "gender": "P",
+    "nim": "2024324922",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Indah Kusuma",
+    "gender": "P",
+    "nim": "2024661158",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024771354",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Institut Teknologi Bandung",
+    "name": "Aditya Saputra",
+    "gender": "L",
+    "nim": "2024492571",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Putri Nugroho",
+    "gender": "P",
+    "nim": "2024606178",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Bayu Saputra",
+    "gender": "L",
+    "nim": "2024841189",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024533916",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024921691",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Rizky Nugroho",
+    "gender": "L",
+    "nim": "2024498713",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Siti Hidayat",
+    "gender": "P",
+    "nim": "2024205262",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Indah Santoso",
+    "gender": "P",
+    "nim": "2024754055",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Fitri Pratama",
+    "gender": "P",
+    "nim": "2024648435",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Kevin Hidayat",
+    "gender": "L",
+    "nim": "2024280475",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024599038",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024202991",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Gita Saputra",
+    "gender": "P",
+    "nim": "2024934930",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024638717",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Fitri Wijaya",
+    "gender": "P",
+    "nim": "2024489006",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Budi Kusuma",
+    "gender": "L",
+    "nim": "2024939717",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024968563",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Gita Hidayat",
+    "gender": "P",
+    "nim": "2024752605",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Dimas Santoso",
+    "gender": "L",
+    "nim": "2024458825",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Kevin Kusuma",
+    "gender": "L",
+    "nim": "2024657692",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Kab. Tangerang",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024446998",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Dimas Kusuma",
+    "gender": "L",
+    "nim": "2024710094",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024885248",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangsel",
+    "name": "Budi Wijaya",
+    "gender": "L",
+    "nim": "2024195427",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Dinda Santoso",
+    "gender": "P",
+    "nim": "2024145250",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Gita Pratama",
+    "gender": "P",
+    "nim": "2024971230",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMA Kristen PENABUR Bintaro",
+    "name": "Dinda Pratama",
+    "gender": "P",
+    "nim": "2024349940",
+    "faculty": "Program SMA",
+    "major": "Akuntansi",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Muhammad Santoso",
+    "gender": "L",
+    "nim": "2024179902",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Indah Hidayat",
+    "gender": "P",
+    "nim": "2024676159",
+    "faculty": "Program SMA",
+    "major": "MIPA",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Ahmad Kusuma",
+    "gender": "L",
+    "nim": "2024898542",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Muhammadiyah 02 Ciputat",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024339361",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Tangsel",
+    "name": "Aulia Pratama",
+    "gender": "P",
+    "nim": "2024953902",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Grafika",
+    "name": "Hani Santoso",
+    "gender": "P",
+    "nim": "2024322936",
+    "faculty": "Keahlian SMK",
+    "major": "Akuntansi",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Rizky Nugroho",
+    "gender": "L",
+    "nim": "2024155348",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 8 Tangerang",
+    "name": "Dimas Hidayat",
+    "gender": "L",
+    "nim": "2024529464",
+    "faculty": "Program SMA",
+    "major": "TKJ",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kota Tangerang",
+    "name": "Rizky Hidayat",
+    "gender": "L",
+    "nim": "2024315906",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Aulia Kusuma",
+    "gender": "P",
+    "nim": "2024621002",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMK Bhakti Anindya",
+    "name": "Nur Saputra",
+    "gender": "P",
+    "nim": "2024890185",
+    "faculty": "Keahlian SMK",
+    "major": "Multimedia",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 23 Kab. Tangerang",
+    "name": "Bayu Santoso",
+    "gender": "L",
+    "nim": "2024819708",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Polytechnic PGRI Banten",
+    "name": "Aulia Wijaya",
+    "gender": "P",
+    "nim": "2024149006",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 1 Tangsel",
+    "name": "Rizky Wijaya",
+    "gender": "L",
+    "nim": "2024318269",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Aulia Nugroho",
+    "gender": "P",
+    "nim": "2024261879",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Dimas Pratama",
+    "gender": "L",
+    "nim": "2024601134",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Rizky Pratama",
+    "gender": "L",
+    "nim": "2024639266",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 1 Kab. Tangerang",
+    "name": "Ahmad Wijaya",
+    "gender": "L",
+    "nim": "2024181048",
+    "faculty": "Keahlian SMK",
+    "major": "MIPA",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Asy-Syukriyah",
+    "name": "Dinda Santoso",
+    "gender": "P",
+    "nim": "2024649532",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAS Strada St. Aquino",
+    "name": "Putri Wijaya",
+    "gender": "P",
+    "nim": "2024327740",
+    "faculty": "Program SMA",
+    "major": "IPS",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "MAN Insan Cendekia Serpong",
+    "name": "Hani Kusuma",
+    "gender": "P",
+    "nim": "2024144985",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Dimas Pratama",
+    "gender": "L",
+    "nim": "2024119671",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Padjadjaran",
+    "name": "Nur Hidayat",
+    "gender": "P",
+    "nim": "2024747545",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Udayana",
+    "name": "Ahmad Wijaya",
+    "gender": "L",
+    "nim": "2024614476",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Panca Sakti University Bekasi",
+    "name": "Fitri Hidayat",
+    "gender": "P",
+    "nim": "2024509431",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Indonesia",
+    "name": "Indah Santoso",
+    "gender": "P",
+    "nim": "2024192699",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Brawijaya",
+    "name": "Nur Nugroho",
+    "gender": "P",
+    "nim": "2024783344",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Budi Saputra",
+    "gender": "L",
+    "nim": "2024990096",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 7 Kab. Tangerang",
+    "name": "Aditya Pratama",
+    "gender": "L",
+    "nim": "2024537448",
+    "faculty": "Keahlian SMK",
+    "major": "TKJ",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMA BPK Penabur Gading Serpong",
+    "name": "Rizky Santoso",
+    "gender": "L",
+    "nim": "2024785463",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "SMAN 3 Tangerang",
+    "name": "Siti Pratama",
+    "gender": "P",
+    "nim": "2024583117",
+    "faculty": "Program SMA",
+    "major": "Multimedia",
+    "jenjang": "SMA",
+    "year": 2024
+  },
+  {
+    "university": "Universitas Gadjah Mada",
+    "name": "Nur Santoso",
+    "gender": "P",
+    "nim": "2024655321",
+    "faculty": "Fakultas Teknik",
+    "major": "Teknik Informatika",
+    "jenjang": "S1",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 3 Tangsel",
+    "name": "Fajar Nugroho",
+    "gender": "L",
+    "nim": "2024425504",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  },
+  {
+    "university": "SMKN 2 Kota Tangerang",
+    "name": "Gita Wijaya",
+    "gender": "P",
+    "nim": "2024909755",
+    "faculty": "Keahlian SMK",
+    "major": "IPS",
+    "jenjang": "SMK",
+    "year": 2024
+  }
+]
